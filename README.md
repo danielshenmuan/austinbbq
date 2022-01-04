@@ -1,5 +1,6 @@
 # austinbbq
 Barbecue Recommendation System
+https://medium.com/@danielshen_36640/best-bbq-in-austin-according-to-google-reviews-text-analytics-be068c52649b
 
 ## Objectives 
 1. to get a restaurant recommendation based on the features I specify. 
