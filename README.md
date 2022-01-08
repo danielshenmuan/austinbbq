@@ -9,6 +9,7 @@ https://medium.com/@danielshen_36640/best-bbq-in-austin-according-to-google-revi
 ## Data: 
 - selenium package for scrapping
 - 10,000+ Google Reviews from BBQ restaurants with more than 1,000 reviews in Austin
+- An example csv file (Black's Barbecue) is in the repository
 
 ## Data processing: 
 - Remove stop words
